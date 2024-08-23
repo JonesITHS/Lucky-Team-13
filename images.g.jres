@@ -1,0 +1,32 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACL/DwAAAAAAIv8PAAAAAADw/w8AAAAAAPD/nwkAAACQ+f+fmQkAAJn5/5+ZCQAAmfn/D5kAAACZAP8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "uglyfly"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAiAiAiAAAAACLyLyIAAAAAIvL//w8AAADw/////wAAAP/5//+ZAAAAmfn//5mZCQCZ+f//n5mZkJn5//+fmZmQmfn//5+ZmZCZ+f///5mZkJn5////kAmQmf//AAAAAJCZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "FatFly"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAA4AAAAAAAAA7gAAAACZAADuAAAAd5kA4A4AAACZd3fuAAAAAJl3d3cAAAAAd3d3dwcAAOBwd3d3Bw4A4O5+d3cH7gAA4O53dwfuAAAAcHd37u4AAABwd3fuAAAA4O5+5+4AAADg7nfnAAAAAODucAcAAAAA4A4AAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage"
+    },
+    "s": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAmZmQmQkAAACZmZCZCQAAAJCZkJkAAAAAAJmQCQAAAAAAkJAAAABQBVVVVVpVBaBVqlWqpVVaoFVaWqpVWlpQBVWlVVWlBQAAAJCQAAAAAAAAmZAJAAAAAJCZkJkAAAAAmZmQmQkAAACZmZCZCQAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "DragonFly 1"
+    },
+    "image4": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAmZmQmQkAAACZmZCZCQAAAJCZkJkAAAAAAJmQCQAAAAAAkJAAAABQBVVVVVJVBSBVIlUiJVVSIFVSUiJVUlJQBVUlVVUlBQAAAJCQAAAAAAAAmZAJAAAAAJCZkJkAAAAAmZmQmQkAAACZmZCZCQAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "DragonFly 2"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
